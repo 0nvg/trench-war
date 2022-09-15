@@ -2,5 +2,5 @@
 Lets you teleport to trenches. The previous points must be captured before you capture a new one. \
 Enjoy.
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/aeg-eus/trench-war/main/script.lua"), true)()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0nvg/trench-war/main/script.lua"), true)()
 ```
